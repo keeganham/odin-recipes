@@ -1,0 +1,47 @@
+.bg-color {
+    background-color: grey;
+    color: white;
+}
+
+
+.heading {
+    text-align: center;
+    font-size: 120px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(62, 58, 79);
+    color: whitesmoke;
+}
+
+.heading.recipe-head {
+    text-align: left;
+    font-size: 60px;
+}
+
+.centre-image {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+}
+
+.list {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: contents;
+    font-size: 100px;
+}
+
+.recipe-image {
+    width: 500px;
+    height: auto;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: orange;
+}
